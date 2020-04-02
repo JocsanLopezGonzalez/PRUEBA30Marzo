@@ -18,6 +18,10 @@ public class PRUEBA30Marzo {
         System.out.println("Jocsan Abisaí López González");
         System.out.println("Zona 11, Huehuetenango, Huehuetenango");
         System.out.println("56158681");
+        
+        System.out.println("Denis Joel Cifuentes Cano");
+        System.out.println("Zona 1, Chiantla");
+        System.out.println("45883960");
     }
     
 }
