@@ -30,6 +30,10 @@ public class PRUEBA30Marzo {
         System.out.println("JAN CARLO DE LEÓN CIFUENTES");
         System.out.println("11 CALLE 2-43 ZONA 5 COLONIA LOS ENCINOS");
         System.out.println("33361433");
+        
+        System.out.println("Nombre: Luis Humberto Ruiz Castillo");
+        System.out.println("Direccion: 8va Calle A 11-30 zona 1 interior");
+        System.out.println("Telefono: 37070944");
     }
     
 }
